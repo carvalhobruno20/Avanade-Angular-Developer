@@ -11,6 +11,24 @@
         margin-top: 5px;
         width: 300px;
     }
+    .botao + .botao{
+        margin-left: 0;
+    }
+    .filme-principal {
+        background-position-x: 30%;
+      }
+    
+      .filme-principal .descricao {
+        margin-bottom: 10px;
+      }
+    
+      .container nav {
+        margin-bottom: 5px;
+      }
+      .container nav a {
+        font-size: 16px;
+      }
+    
 }
 
 @media screen and (min-width:1000px){
